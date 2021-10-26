@@ -7,7 +7,7 @@
 
 <!-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know? -->
 
-👩‍💻 We're on Discord, so join it!
+👩‍💻 We're on Discord, [so join it]( http://discord.gg/BJusUKd8Vj )!
 
 🍕 Fun fact: pineapple belong on pizza. (depends on the pizza itself, really) 
 
