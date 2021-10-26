@@ -9,7 +9,7 @@
 
 👩‍💻 We're on Discord, [so join it]( http://discord.gg/BJusUKd8Vj )!
 
-🍕 Fun fact: pineapple belong on pizza. (depends on the pizza itself, really) 
+🍕🍍 Pineapple belong on pizza.
 
 
 
