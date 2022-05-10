@@ -11,6 +11,8 @@
 
 🍕🍍 Pineapple belong on pizza.
 
+Projects:
 
+[Echidna Code](https://github.com/fortressia/Echidna) - A friendlier code editor than your current one, made for the GNOME platform. 
 
 <!-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/) -->
