@@ -1,18 +1,11 @@
 ## Hi there 👋
 
-🙋‍♀️ We're EchidnaHQ, a tiny development team developing many quirky open source magics 🧙. 
+🙋‍♀️ We're EchidnaHQ, a tiny development team developing lovely quirky open source magics 🧙. 
 
-
-🌈 You can discover our repos and see (sus) things we are doing. (try see the vents we have vented)
-
+🥰 We love Rust, Linux, and the GNOME stack.
 <!-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know? -->
 
-👩‍💻 We're on Discord, [so join it]( http://discord.gg/BJusUKd8Vj )!
+☺️ [We're on Discord](https://discord.gg/BJusUKd8Vj )!
 
-🍕🍍 Pineapple belong on pizza.
-
-Projects:
-
-[Echidna Code](https://github.com/fortressia/Echidna) - A friendlier code editor than your current one, made for the GNOME platform. 
-
+😍 Love you all! 💖✨ <3
 <!-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/) -->
