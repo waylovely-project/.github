@@ -1,11 +1,7 @@
-## Hi there 👋
+![Waylovely](https://user-images.githubusercontent.com/66000635/193557047-993b33ed-58cd-4d6a-a8e2-890cde6bcf4a.png)
 
-🙋‍♀️ We're EchidnaHQ, a tiny development team developing lovely quirky open source magics 🧙. 
+What happens when the land's way give you a lovely way?? 💖💖
 
-🥰 We love Rust, Linux, and the GNOME stack.
-<!-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know? -->
+What happens when the way's land give you a lovely land?? ✨✨
 
-☺️ [We're on Discord](https://discord.gg/BJusUKd8Vj )!
-
-😍 Love you all! 💖✨ <3
-<!-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/) -->
+Hii everyone!!! The Wayland Project is an open source project dedicated to bring the lovely way and land to your Android smartphone!! With full desktop integrations <3 💕💕
