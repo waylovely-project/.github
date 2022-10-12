@@ -4,4 +4,4 @@ What happens when the land's way give you a lovely way?? 💖💖
 
 What happens when the way's land give you a lovely land?? ✨✨
 
-Hii everyone!!! The Wayland Project is an open source project dedicated to bring the lovely way and land to your Android smartphone!! With full desktop integrations <3 💕💕
+Hii everyone!!! The Waylovely Project is an open source project dedicated to bring the lovely way and land to your Android smartphone!! With full desktop integrations <3 💕💕
